@@ -1,0 +1,8 @@
+.lista{
+    display:inline-flex;
+  list-style-type: none;
+  margin-left: 5px;
+}
+.lista li{
+    margin-left: 35px;
+}
